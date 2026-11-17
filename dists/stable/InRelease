@@ -1,0 +1,21 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: Mako
+Label: Mako
+Suite: stable
+Codename: stable
+Architectures: amd64
+Components: main
+Description: Mako file manager
+Date: Tue, 17 Nov 2026 19:01:54 +0000
+SHA256:
+ 552d197f79b18c187ccf029f0097706877fa291860dad1ad90b65c67614523b0 2952 main/binary-amd64/Packages
+ bf7125c94188f323e2ef5439cf9aacdcf680be2d282121bb9d12a6e6650928d5 984 main/binary-amd64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQRVQmOE7ZlTECDsUXJrQ6BE8lIItAUCavykogAKCRBrQ6BE8lII
+tKGFAQCQHFuTyl26kMxxSjdtIeUypvr+Tyxjc0V83seSxYKoUgD/flJefk0BZFV9
+I85yngCpSs5moCe6p4lfQmdS7EhQBgE=
+=mFoT
+-----END PGP SIGNATURE-----

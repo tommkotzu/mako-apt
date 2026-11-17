@@ -1,0 +1,42 @@
+Package: mako
+Version: 0.1.6
+Architecture: amd64
+Maintainer: tommkotzu <tommkotzu@users.noreply.github.com>
+Installed-Size: 15120
+Depends: libadwaita-1-0 (>= 1.9), libc6 (>= 2.38), libcairo2 (>= 1.2.4), libcloudproviders0 (>= 0.2.5), libgdk-pixbuf-2.0-0 (>= 2.25.2), libglib2.0-0t64 (>= 2.83.0), libglycin-2-0 (>= 2.0~beta), libglycin-gtk4-2-0 (>= 2.0~beta), libgnome-autoar-0-0 (>= 0.4.0), libgnome-desktop-4-2t64 (>= 42~beta), libgraphene-1.0-0 (>= 1.5.4), libgtk-4-1 (>= 4.22), libicu78 (>= 78.1-1~), libjson-glib-1.0-0 (>= 1.5.2), libpango-1.0-0 (>= 1.37.5), libportal-gtk4-1 (>= 0.5), libportal1 (>= 0.7), libtinysparql-3.0-0 (>= 3.8.1), libwayland-client0 (>= 1.20.0), libx11-6, gsettings-desktop-schemas, gstreamer1.0-plugins-good
+Recommends: gstreamer1.0-libav, localsearch, libpoppler-glib8t64
+Filename: pool/main/m/mako/mako_0.1.6_amd64.deb
+Size: 2445264
+MD5sum: 46bb6209a9515a1c08992c295c512434
+SHA1: 248464711def981d810cc5943702e21b3ed321ec
+SHA256: 146ceafbd6dd5ad7e7b4bf7eb4816ad07ce5389d3c2c04839e3146093a1e509b
+Section: gnome
+Priority: optional
+Homepage: https://github.com/tommkotzu/mako
+Description: File manager based on GNOME Files (Nautilus) with File Pilot ideas
+ Mako adds split tiles with their own tabs, Miller columns, a tree view,
+ Quick Look, ratings, tags, folder colors, an inspector panel and a
+ keyboard-first command list to GNOME Files. It runs next to GNOME Files
+ under its own app id (org.gnome.Nautilus.Devel) and keeps its own settings.
+
+Package: mako
+Version: 0.1.7
+Architecture: amd64
+Maintainer: tommkotzu <tommkotzu@users.noreply.github.com>
+Installed-Size: 15188
+Depends: libadwaita-1-0 (>= 1.9), libc6 (>= 2.38), libcairo2 (>= 1.2.4), libcloudproviders0 (>= 0.2.5), libgdk-pixbuf-2.0-0 (>= 2.25.2), libglib2.0-0t64 (>= 2.83.0), libglycin-2-0 (>= 2.0~beta), libglycin-gtk4-2-0 (>= 2.0~beta), libgnome-autoar-0-0 (>= 0.4.0), libgnome-desktop-4-2t64 (>= 42~beta), libgraphene-1.0-0 (>= 1.5.4), libgtk-4-1 (>= 4.22), libicu78 (>= 78.1-1~), libjson-glib-1.0-0 (>= 1.5.2), libpango-1.0-0 (>= 1.37.5), libportal-gtk4-1 (>= 0.5), libportal1 (>= 0.7), libtinysparql-3.0-0 (>= 3.8.1), libwayland-client0 (>= 1.20.0), libx11-6, gsettings-desktop-schemas, gstreamer1.0-plugins-good
+Recommends: gstreamer1.0-libav, localsearch, libpoppler-glib8t64
+Filename: pool/main/m/mako/mako_0.1.7_amd64.deb
+Size: 2461212
+MD5sum: d7a56b2c954605d1b32d7e4e04921cac
+SHA1: b580ac2dc49447b9964580952d6d99711374be9d
+SHA256: d0ffa366f090e68929aee27c9cfe7f97114c3265561ea12bf26f927fe1bbe3b5
+Section: gnome
+Priority: optional
+Homepage: https://github.com/tommkotzu/mako
+Description: File manager based on GNOME Files (Nautilus) with File Pilot ideas
+ Mako adds split tiles with their own tabs, Miller columns, a tree view,
+ Quick Look, ratings, tags, folder colors, an inspector panel and a
+ keyboard-first command list to GNOME Files. It runs next to GNOME Files
+ under its own app id (org.gnome.Nautilus.Devel) and keeps its own settings.
+
